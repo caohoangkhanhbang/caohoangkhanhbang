@@ -35,14 +35,11 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100050494059978" target="blank">
-    <img src="../images/facebook_new.png" alt="trungquandev-facebook" />
+    <img src="./images/facebook_new.png" alt="caohoangkhanhbang-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/kh%C3%A1nh-b%C4%83ng-cao-ho%C3%A0ng-1094a025a/" target="blank">
-    <img src="../images/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="./images/linkedin.png" alt="caohoangkhanhbang-linkedin" />
   </a>
 </div>
 
