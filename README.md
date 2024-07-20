@@ -32,9 +32,8 @@
     <img align="right" width="434" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caohoangkhanhbang&theme=2077" />
   </a>
   <a href="#" title="caohoangkhanhbang">
-    <img align="right" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=caohoangkhanhbang&hide_border=false&theme=neon" />
+    <img align="right" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=caohoangkhanhbang&hide_border=false&theme=neon" />
   </a>
-
 </div>
 
 <br>
