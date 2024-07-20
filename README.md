@@ -28,6 +28,13 @@
   <a href="#" title="caohoangkhanhbang">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=caohoangkhanhbang&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+  <a href="#" title="caohoangkhanhbang">
+    <img align="right" width="434" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caohoangkhanhbang&theme=2077" />
+  </a>
+  <a href="#" title="caohoangkhanhbang">
+    <img align="right" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=caohoangkhanhbang&hide_border=false&theme=neon" />
+  </a>
+
 </div>
 
 <br>
