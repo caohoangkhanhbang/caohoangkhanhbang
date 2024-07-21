@@ -32,7 +32,7 @@
     <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=caohoangkhanhbang&hide_border=false&theme=neon" height="180em" />
   </a>
   <a href="#" title="caohoangkhanhbang">
-    <img align="right" width="434" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caohoangkhanhbang&theme=2077" height="180em" />
+    <img align="center" width="434" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caohoangkhanhbang&theme=2077" height="180em" />
   </a>
 </div>
 
