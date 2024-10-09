@@ -1,4 +1,10 @@
 <h1>Hi! I'm Cao Hoàng Khánh Băng</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Italianno&color=fe215e&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Cao+Hoàng+Khánh+Băng;My+Hometown+is+Vĩnh+Long.+%F0%9F%98%84;Nice+to+Meet+You+!!!...)](https://github.com/caohoangkhanhbang)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -50,4 +56,6 @@
     <img src="./images/linkedin.png" alt="caohoangkhanhbang-linkedin" />
   </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
