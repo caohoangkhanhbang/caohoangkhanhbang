@@ -44,39 +44,7 @@
   </a>
 </div> -->
 
-<markdown-accessiblity-table data-catalyst=""><table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caohoangkhanhbang" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/2e7a267ad17e169517ee8d237ef04067f997b38af6ac028cf16341f0c46e3029/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d5468616e6848616939333531267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caohoangkhanhbang&amp;theme=dracula" style="max-width: 100%;">
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caohoangkhanhbang&amp;" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/be2c60047844869a83b63d5b1967418a28085cca66ee79be20e95f8d59ff5911/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d5468616e6848616939333531267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caohoangkhanhbang&amp;theme=dracula" style="max-width: 100%;">
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caohoangkhanhbang" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/f680b9dbfa4f0288dc0f3c1f93ce93d3f2d801fbec73537b2801b915250baab2/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d5468616e6848616939333531267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caohoangkhanhbang&amp;theme=dracula" style="max-width: 100%;">
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caohoangkhanhbang" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/df41c4182fa6a108ef3832ad774ddfea2775c89143a533ae519a04613abc13a6/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d5468616e6848616939333531267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caohoangkhanhbang&amp;theme=dracula" style="max-width: 100%;">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table></markdown-accessiblity-table>
 
-<br/>
-<br/>
 <br/>
 
 <h2 align="center">📞  Where to find me 📞</h2>
