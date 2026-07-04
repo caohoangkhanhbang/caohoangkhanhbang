@@ -16,30 +16,30 @@ eventually becoming a project manager. I value accountability to my team and the
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" height="40" /> &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" style="border-radius: 10px; background-color: #24292e; padding: 5px;" alt="SQL Server" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="40" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=dart" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=angular" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" height="40" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=java" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=c" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" height="40" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" style="border-radius: 10px; background-color: #1a1a1a; padding: 5px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=cassandra" height="40" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" style="border-radius: 10px; background-color: #24292e; padding: 5px;" alt="SQL Server" /> &nbsp;
 </p>
 
 <br>
