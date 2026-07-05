@@ -45,7 +45,7 @@ eventually becoming a project manager. I value accountability to my team and the
 <br>
 
 <h2 align="left">EDUCATION</h2>
-<p align="left">Ho Chi Minh City University of Industry and Trade</p>
+<p align="left">Ho Chi Minh City University of Industry and Trade - HUIT</p>
 <p align="right">23/09/2021- 16/01/2025</p>
 <b><strong>1. Bachelor of Software Engineering</strong></b>
 <ul>
@@ -103,6 +103,28 @@ Intelligence.</li>
     <img alt="github-snake" src="https://raw.githubusercontent.com/anionzo/anionzo/main/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<h2 align="left">SKILLS</h2>
+<h5 align="justify">
+<p align="left">Front-end</p>
+<ul>
+ <li>Programming languages: HTML/CSS, JavaScript, dart, .Net core MVC .</li>
+ <li>Framework: BootStrap 4, Angular, Nextjs, utter.</li>
+</ul>
+<p align="left">Back-end</p>
+  <ul>
+<li>Programming languages: C#, Java, JavaScript, C/C++, dart.</li>
+<li>Framework: ASP.NET Core, ASP.NET MVC, Blazor, .NET Framework (Windows Forms), Entity
+framework, Java Swing, Node.js.</li>
+ <li>Technical skills:</li>
+ <li>Object Oriented Programming (OOP).</li>
+ <li>Entity Framework and LINQ.</li>
+ <li>Using the MVC model with a RESTful API.</li>
+ <li>Good use of GIT (Github) for source code management.</li>
+ <li>Database: SQL Server, Oracle, MongoDB, Neo4j, Cassandra.</li>
+ <li>Mobile Development: Flutter ,Android development with Android Studio and Visual studio code.</li>
+</ul>
+</h5>
 
 <h2 align="left">HOBBIES</h2>
 <h5 align="justify">
