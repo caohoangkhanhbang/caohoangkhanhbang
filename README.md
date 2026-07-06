@@ -63,7 +63,7 @@ Intelligence.</li>
   <li>Computer Vision and Pattern Recognition</li>
   <li>Big Data Analytics</li>
   <li>Advanced Machine Learning</li>
-  <li>Modern Topics in Arti cial Intelligence</li>
+  <li>Modern Topics in Artificial Intelligence</li>
   <li>Modern Topics in Information Security</li>
   <li> GPA: 3.78/4.00</li>
 </ul>
