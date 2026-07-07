@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./images/widechkb3dastronaut.gif" width="100%">
+  <img src="./images/widechkb3dastronaut.gif" width="80%">
 </div>
   
 
