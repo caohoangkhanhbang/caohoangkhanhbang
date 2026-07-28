@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd6,25:ff00cb,50:0046ff,100:00ff8b&height=190&section=header&text=Full-Stack%20Developer&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=Programming%20is%20my%20passion.&descSize=18&descAlignY=55" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff3,25:1900ff,50:1900ff,100:00fff3&height=190&section=header&text=Full-Stack%20Developer&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=Programming%20is%20my%20passion.&descSize=18&descAlignY=55" width="100%" alt="header" />
 </div>
 
 <div align="center">
@@ -102,11 +102,11 @@ Intelligence.</li>
 <div align="center"><i>I am very glad to connect with you!</i></div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anionzo/anionzo/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anionzo/anionzo/main/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/anionzo/anionzo/main/github-contribution-grid-snake.svg" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caohoangkhanhbang/caohoangkhanhbang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caohoangkhanhbang/caohoangkhanhbang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caohoangkhanhbang/caohoangkhanhbang/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <h2 align="left">SKILLS</h2>
